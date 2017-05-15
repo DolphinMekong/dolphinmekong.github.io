@@ -1,0 +1,39 @@
+body {
+  margin: 20px;
+}
+h1, h2, h3 {
+  font-family:"Times New Roman Georgia";
+  font-weight: 400;
+}
+
+p {
+  font-family:"Times New Roman Georgia";
+}
+
+ul {
+    font-family:"Times New Roman Georgia";
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    margin: -20px;
+    margin-bottom: 20px;
+}
+
+li {
+    float: left;
+    padding: 5px;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
